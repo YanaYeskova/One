@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    background-color: aquamarine;
+}
+
+p{
+    text-indent: 20px; /* Відступ першого рядка в пікселях */
+}
